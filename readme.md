@@ -14,8 +14,8 @@ for [node.js](http://nodejs.org/):
 
 ## download
 
- * without [component/url](https://github.com/component/url) embedded: [link](https://raw.github.com/ramitos/tld.js/master/dist/tld.js) (*7Kb minified, 3kb minified and gzipped*)
- * with [component/url](https://github.com/component/url) embedded: [link](https://raw.github.com/ramitos/tld.js/master/dist/tld.url.js) (*8Kb minified, 3kb minified and gzipped*)
+ * without [component/url](https://github.com/component/url) embedded: [link](https://raw.github.com/ramitos/tld.js/master/dist/tld.js) *(7Kb minified, 3kb minified and gzipped)*
+ * with [component/url](https://github.com/component/url) embedded: [link](https://raw.github.com/ramitos/tld.js/master/dist/tld.url.js) *(8Kb minified, 3kb minified and gzipped)*
 
 ## usage
 
