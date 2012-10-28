@@ -1,6 +1,6 @@
 {
-  "name": "tldjs",
-  "repo": "ramitos/tldjs",
+  "name": "tld.js",
+  "repo": "ramitos/tld.js",
   "description": "get the tld from a url",
   "version": "0.0.1",
   "keywords": ["tld", "url", "top", "level", "domain", "top-level-domain"],

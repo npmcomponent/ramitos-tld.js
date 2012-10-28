@@ -6,18 +6,18 @@ get the tld (top-level-domain) from a url
 
 for [component](https://github.com/component/component):
 
-    $ component install ramitos/tldjs
+    $ component install ramitos/tld.js
 
 for [node.js](http://nodejs.org/):
 
-    $ npm install tldjs
+    $ npm install tld.js
 
 ## usage
 
 with string url:
 
 ```js
-var tld = require('tldjs')
+var tld = require('tld.js')
 
 tld('http://www.example.co.uk') //=> co.uk
 ```
@@ -25,12 +25,12 @@ tld('http://www.example.co.uk') //=> co.uk
 with parsed url:
 
 ```js
-var tld = require('tldjs'),
+var tld = require('tld.js'),
     url = require('url')
 
 tld(url.parse('http://www.example.co.uk')) //=> co.uk
 ```
-## test [![Build Status](https://secure.travis-ci.org/ramitos/tldjs.png)](http://travis-ci.org/ramitos/tldjs)
+## test [![Build Status](https://secure.travis-ci.org/ramitos/tld.js.png)](http://travis-ci.org/ramitos/tld.js)
 
     $ make test
 

@@ -1,11 +1,11 @@
 {
-  "name": "tldjs",
+  "name": "tld.js",
   "version": "0.0.1",
   "description": "get the tld from a url",
   "main": "src/tld.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramitos/tldjs"
+    "url": "https://github.com/ramitos/tld.js"
   },
   "keywords": ["tld", "url", "top", "level", "domain", "top-level-domain"],
   "author": "Sérgio Ramos <mail@sergioramos.me>",
