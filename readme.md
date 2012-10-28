@@ -1,4 +1,4 @@
-# tldjs
+# tld.js
 
 get the tld (top-level-domain) from a url
 
