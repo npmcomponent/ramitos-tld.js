@@ -1,4 +1,4 @@
-[
+var urls =  [
   {
     "url": "http://www.example.org",
     "tld": "org"
@@ -80,3 +80,5 @@
     "tld": ""
   }
 ]
+
+if(module && module.exports) module.exports = urls

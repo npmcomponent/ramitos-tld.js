@@ -3,3 +3,4 @@ build
 node_modules
 component.json
 Makefile
+.DS_Store

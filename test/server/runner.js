@@ -1,8 +1,8 @@
-var urls = require('./urls.json'),
+var urls = require('../urls.js'),
     parse = require('url').parse,
-    tld = require('../src/tld'),
-    colors = require('colors')
-    assert = require('assert')
+    colors = require('colors'),
+    assert = require('assert'),
+    tld = require('../../')
     
 console.log('parsed'.bold)
 

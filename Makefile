@@ -1,4 +1,4 @@
 test:
-	node test/runner.js
+	node test/server/runner.js
 
 .PHONY: test

@@ -11,5 +11,5 @@
   "author": "Sérgio Ramos <mail@sergioramos.me>",
   "license": "MIT",
   "devDependencies": {"colors": "0.6.x"},
-  "scripts": {"test": "node test/runner"}
+  "scripts": {"test": "node test/server/runner"}
 }
