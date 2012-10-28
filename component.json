@@ -4,7 +4,7 @@
   "description": "get the tld from a url",
   "version": "0.0.1",
   "keywords": ["tld", "url", "top", "level", "domain", "top-level-domain"],
-  "main": "src/tld.js"
+  "main": "src/tld.js",
   "scripts": ["src/tdl.js"],
   "dependencies": {
     "component/url": "*"
