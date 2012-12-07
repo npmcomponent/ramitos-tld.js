@@ -12,11 +12,6 @@ for [node.js](http://nodejs.org/):
 
     $ npm install tld.js
 
-## download
-
- * without [component/url](https://github.com/component/url) embedded: [link](https://raw.github.com/ramitos/tld.js/master/dist/tld.js) *(7Kb minified, 3kb minified and gzipped)*
- * with [component/url](https://github.com/component/url) embedded: [link](https://raw.github.com/ramitos/tld.js/master/dist/tld.url.js) *(8Kb minified, 3kb minified and gzipped)*
-
 ## usage
 
 with string url:
@@ -48,11 +43,11 @@ This two cases are covered in the tests and fail in the browser tests
 
 ## test [![Build Status](https://secure.travis-ci.org/ramitos/tld.js.png)](http://travis-ci.org/ramitos/tld.js)
 
-    $ make test
+    $ npm test
 
 ## credits
  
- * inspired by URI.js where the second-level-domain regular expression comes from there
+ * inspired by [URI.js](https://github.com/medialize/URI.js/) where the second-level-domain regular expression comes from
 
 ## license
 
