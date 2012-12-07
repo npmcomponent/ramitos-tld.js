@@ -2,6 +2,7 @@
   "name": "tld.js",
   "repo": "ramitos/tld.js",
   "description": "get the tld from a url",
+  "twitter": "@ramitos",
   "version": "0.0.2",
   "license": "MIT",
   "keywords": ["tld", "url", "top", "level", "domain", "top-level-domain"],
