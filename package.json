@@ -1,15 +1,18 @@
 {
-  "name": "tld.js",
-  "version": "0.0.2",
+  "name": "ramitos-tld.js",
   "description": "get the tld from a url",
+  "version": "0.0.2",
+  "keywords": [
+    "tld",
+    "url",
+    "top",
+    "level",
+    "domain",
+    "top-level-domain"
+  ],
   "main": "src/tld.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ramitos/tld.js"
+  "dependencies": {
+    "component-url": "git://github.com/npmcomponent/component-url.git"
   },
-  "keywords": ["tld", "url", "top", "level", "domain", "top-level-domain"],
-  "author": "Sérgio Ramos <mail@sergioramos.me>",
-  "license": "MIT",
-  "devDependencies": {"colors": "0.6.x"},
-  "scripts": {"test": "node test/server/runner"}
+  "license": "MIT"
 }

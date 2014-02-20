@@ -1,4 +1,4 @@
-var parse = require('url').parse,
+var parse = require('component-url').parse,
     sld = require('./sld');
 
 module.exports = function (url) {
